@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PathologyHandbookApi", "PathologyHandbookApi.csproj", "{1EC0DEAE-CAEE-45F2-87E3-75F56E8857C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Local|Any CPU = Local|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Uat|Any CPU = Uat|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC0DEAE-CAEE-45F2-87E3-75F56E8857C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC0DEAE-CAEE-45F2-87E3-75F56E8857C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC0DEAE-CAEE-45F2-87E3-75F56E8857C5}.Local|Any CPU.ActiveCfg = Local|Any CPU
+		{1EC0DEAE-CAEE-45F2-87E3-75F56E8857C5}.Local|Any CPU.Build.0 = Local|Any CPU
+		{1EC0DEAE-CAEE-45F2-87E3-75F56E8857C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC0DEAE-CAEE-45F2-87E3-75F56E8857C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EC0DEAE-CAEE-45F2-87E3-75F56E8857C5}.Uat|Any CPU.ActiveCfg = Uat|Any CPU
+		{1EC0DEAE-CAEE-45F2-87E3-75F56E8857C5}.Uat|Any CPU.Build.0 = Uat|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {890D708D-35E9-4521-8846-11B39B14C2B1}
+	EndGlobalSection
+EndGlobal
